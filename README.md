@@ -17,7 +17,11 @@ An AI-powered virtual showroom assistant designed to help customers explore Audi
 
 ## 🎥 Project Demo Video
 <video controls width="600">
-  <source src="https://github.com/omithasannayme/AI-Agent-for-Audi-Car-Showroom/raw/main/ai-agent-for-audi-car-showroom.mp4" type="video/mp4">
+  <source 
+
+https://github.com/user-attachments/assets/0fbc0d82-252a-48a4-bddc-16e8a67c117e
+
+src="https://github.com/omithasannayme/AI-Agent-for-Audi-Car-Showroom/raw/main/ai-agent-for-audi-car-showroom.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
