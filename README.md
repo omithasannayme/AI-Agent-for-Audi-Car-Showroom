@@ -17,7 +17,9 @@ An AI-powered virtual showroom assistant designed to help customers explore Audi
 
 ## 🎥 Project Demo Video
 
-[▶️ Watch Demo Video](https://github.com/omithasannayme/AI-Agent-for-Audi-Car-Showroom/raw/main/ai-agent-for-audi-car-showroom.mp4)
+<video width="600" controls>
+  <source src="https://github.com/omithasannayme/AI-Agent-for-Audi-Car-Showroom/raw/main/ai-agent-for-audi-car-showroom.mp4" type="video/mp4">
+</video>
 
 ## 📌 Project Overview
 This project demonstrates how an AI chatbot can be used in an automotive showroom environment. The assistant provides customers with quick access to vehicle information and creates a digital showroom experience similar to interacting with a sales representative.
