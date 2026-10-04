@@ -13,7 +13,7 @@ An AI-powered virtual showroom assistant designed to help customers explore Audi
 - **Programming Language:** Python 3.13
 - **Framework:** Flask 3.1.0
 - **Frontend:** HTML, CSS
-- **Backend:** Python
+- **Backend:** Python, Ollama qwen3:0.6b
 ## 📌 Project Overview
 This project demonstrates how an AI chatbot can be used in an automotive showroom environment. The assistant provides customers with quick access to vehicle information and creates a digital showroom experience similar to interacting with a sales representative.
 
