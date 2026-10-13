@@ -22,10 +22,5 @@ This project demonstrates how an AI chatbot can be used in an automotive showroo
 ## 🎥 Project Demo Video
 
 
-
-https://github.com/user-attachments/assets/144427ad-9bff-4041-a939-dc0037bc2794
-
-
-
-
+https://github.com/user-attachments/assets/f87350b6-1c2a-4d70-b93b-74d1b650fd0e
 
